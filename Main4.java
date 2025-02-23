@@ -20,3 +20,11 @@ public class Main4 {
         scanner.close();
     }
 }
+
+// Output
+Enter the size of the pattern: 5
+5 5 5 5 1 
+5 5 5 2 1 
+5 5 3 2 1 
+5 4 3 2 1 
+5 4 3 2 1 
