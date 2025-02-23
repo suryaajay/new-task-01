@@ -23,3 +23,9 @@ public class Main2 {
         scanner.close();
     }
 }
+
+// Output
+Enter the value of a: 20
+Enter the value of b: 50
+Enter the value of c: 70
+20 A IS SMALLEST
