@@ -16,3 +16,10 @@ public class Main1 {
         }
     }
 }
+
+// Output 
+Enter a number: 123
+123 IT IS POSITIVE
+
+Enter a number: -100
+-100 IT IS NEGATIVE
