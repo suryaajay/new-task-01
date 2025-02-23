@@ -17,6 +17,6 @@ public class Main5 {
         scanner.close();
     }
 }
-Output
+// Output
 Enter a number: 876
 Reversed Number: 678
