@@ -23,3 +23,9 @@ public class Main3 {
         scanner.close();
     }
 }
+
+// Output 
+Enter the Purchase Amount: 60000
+Original Purchase Amount: rupees 60000.0
+Discount Applied: rupees 12000.0
+Final Payable Amount: rupees 48000.0
